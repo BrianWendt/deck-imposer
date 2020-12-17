@@ -6,8 +6,7 @@
 }
 
 canvas {
-  margin: 1em;
   background: white;
   background-image: url('transparent.jpg');
-  width: 400px;
+  max-width: 100%;
 }
